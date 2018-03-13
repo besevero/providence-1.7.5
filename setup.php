@@ -29,13 +29,13 @@ if (!defined("__CA_DB_HOST__")) {
 # __CA_DB_USER__ = Database login user name
 #
 if (!defined("__CA_DB_USER__")) {
-	define("__CA_DB_USER__", 'root');
+	define("__CA_DB_USER__", 'besevero');
 }
 
 # __CA_DB_PASSWORD__ = Database login password
 #
 if (!defined("__CA_DB_PASSWORD__")) {
-	define("__CA_DB_PASSWORD__", '123456');
+	define("__CA_DB_PASSWORD__", '');
 }
 
 # __CA_DB_DATABASE__ = The name of your CollectiveAccess database
