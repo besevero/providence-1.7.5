@@ -1,6 +1,5 @@
 {
   "require-dev": {
-    "php": ">=5.4.0",
     "phpunit/phpunit": "4.3.*",
     "maximebf/debugbar": ">=1.0.0",
     "doctrine/cache": "1.4.*",
